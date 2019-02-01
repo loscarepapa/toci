@@ -1,0 +1,37 @@
+{
+  "name": "toci",
+  "version": "0.1.0",
+  "description": "Toci es la platafora de investigacion y analisis de enfermedades con base a los diagnosticos de los usuarios y una forma mas facil de conectar a los los pacientos con sus doctores y servisios de salud",
+  "main": "server.js",
+  "keywords": [
+    "Toci",
+    "toci",
+    "doctor",
+    "farmacia",
+    "hositales",
+    "enfermedades",
+    "pacientes",
+    "sintomas"
+  ],
+  "author": "Toci",
+  "license": "ISC",
+  "dependencies": {
+    "empty-element": "^1.0.0",
+    "express": "^4.16.4",
+    "page": "^1.11.3",
+    "pug": "^2.0.3",
+    "title": "^1.0.0",
+    "yo-yo": "^1.4.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "babelify": "^10.0.0",
+    "browserify": "^16.2.3",
+    "gulp": "^4.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-stylus": "^2.7.0",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
