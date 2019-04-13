@@ -174,7 +174,7 @@ var conteo_preguntas = 0,
         0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
         // 24 dd 0
     ],
-    //& Resulado de las preguntas opcionales
+    //& Resulado de las preguntas opcionales 
     respuetas_opcionales_1 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], // 11 dd 0
     respuetas_opcionales_2 = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], // 10 dd 0
     respuetas_opcionales_3 = [0, 0, 0, 0], // 10 dd 0
